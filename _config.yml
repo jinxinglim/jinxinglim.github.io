@@ -17,9 +17,9 @@ navbar-links:
   Home: "jinxinglim.github.io"
   Posts: "blog/index"
   CV: "cv"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
 
 
 # --- Logo --- #
