@@ -15,11 +15,12 @@ author: Jin Xing Lim
 
 navbar-links:
   Home: "jinxinglim.github.io"
-  About Me: "aboutme"
+  Posts: "blog/index"
+  CV: "cv"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Blog: "blog/index"
+
 
 # --- Logo --- #
 
