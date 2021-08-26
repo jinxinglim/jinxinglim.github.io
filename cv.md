@@ -6,15 +6,15 @@ subtitle: Course of my life
 
 ## Education
 
-- **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)
-  [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)
-  Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/)
+- **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
+  [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)    
+  Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/)    
   Topic: Blockchain application on theorem proving
   
-- **B.S. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)
-  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)
-  Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)
-  Topic: Mathematical Logic
+- **B.S. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
+  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
+  Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)    
+  Topic: Mathematical Logic    
   Thesis: "Decidability of the First Order Theory of Boolean Algebra" by Tarski, A.
 
 ---
