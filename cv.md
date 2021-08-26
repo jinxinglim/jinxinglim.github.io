@@ -27,7 +27,7 @@ subtitle: Course of my life
 
 - **Lecturer** (Jul 2014 - Aug 2018)     
   [*Temasek Polytechnic*](https://www.tp.edu.sg/)    
-  Subject leader and lecturer for the following courses:  
+  Subject leader and lecturer for the following courses:
   - Mathematics for Applied Science
   - Statistics for Applied Science 
   - Biostatistics
