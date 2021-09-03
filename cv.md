@@ -42,4 +42,3 @@ subtitle: Course of my life
   - Scripting for Bioinformatics
 
 ---
-  
