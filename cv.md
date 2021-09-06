@@ -6,7 +6,7 @@ subtitle: Course of my life
 
 ## Publications
 
-- **(Auto)Complete this Proof: Decentralized Proof Generation via Smart Contracts** (Sept 2021)    
+- **[(Auto)Complete this Proof: Decentralized Proof Generation via Smart Contracts](http://aitp-conference.org/2021/abstract/paper_7.pdf)** (Sept 2021)    
   **Jin Xing Lim**, [Barnabé Monnot](https://barnabemonnot.com/), Georgios Piliouras and Shaowei Lin.    
   [*6th Conference on Artificial Intelligence and Theorem Proving (AITP 2021)*](http://aitp-conference.org/2021/)
 
