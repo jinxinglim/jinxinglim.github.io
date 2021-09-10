@@ -20,13 +20,13 @@ subtitle: Course of my life
   **Jin Xing Lim**, Bryan Tao Li and Maurice H.T. Ling    
   [Encyclopedia of Bioinformatics and Computational Biology](https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology) [Book Chapter]
   
-- [**Mathematics for Applied Science (Second Edition)**](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ/221301757?BRN=203024570&SETLVL=) (2016)    
-  **Jin Xing Lim**, Bryan Tao Li, [Zhangsheng Lai](https://zunction.github.io/) and Swee Cheng Chew    
-  [Book]
+- [**Mathematics for Applied Science**](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ/221301757?BRN=203024570&SETLVL=) (2016)    
+  [Hong Ming Tan](https://thm.sg/), Bryan Tao Li, [Zhangsheng Lai](https://zunction.github.io/), **Jin Xing Lim** and Swee Cheng Chew    
+  McGraw Hill Education [Book]
 
 - [**Statistics for Applied Science**](https://books.google.com.sg/books/about/Mathematics_for_Applied_Science.html?id=t2agswEACAAJ&redir_esc=y) (2015)    
-  **Jin Xing Lim**, Bryan Tao Li, Zhangsheng Lai and Swee Cheng Chew       
-  [Book]
+  Hong Ming Tan, Bryan Tao Li, Zhangsheng Lai, **Jin Xing Lim** and Swee Cheng Chew    
+  McGraw Hill Education [Book]
 
 ---
 
