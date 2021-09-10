@@ -17,7 +17,7 @@ subtitle: Course of my life
   [EC Proteomics and Bioinformatics](https://publons.com/journal/47765/ec-proteomics-and-bioinformatics/#:~:text=EC%20Proteomics%20and%20Bioinformatics%20ECPB,their%20application%20in%20the%20biosciences.) [Journal]
   
 - [**Sequence Composition**](https://www.sciencedirect.com/science/article/pii/B9780128096338204391?via%3Dihub) (2019)    
-  **Jin Xing Lim**, Bryan Tao Li and Maurice H.T. Ling    
+  **Jin Xing Lim**, [Bryan Tao Li](https://www.zoominfo.com/p/Bryan-tao-Li/3794826580) and Maurice H.T. Ling    
   [Encyclopedia of Bioinformatics and Computational Biology](https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology) [Book Chapter]
   
 - [**Mathematics for Applied Science**](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ/221301757?BRN=203024570&SETLVL=) (2016)    
