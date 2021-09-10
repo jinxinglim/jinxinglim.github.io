@@ -10,6 +10,8 @@ subtitle: Course of my life
   **Jin Xing Lim**, [Barnabé Monnot](https://barnabemonnot.com/), Georgios Piliouras and Shaowei Lin    
   [*6th Conference on Artificial Intelligence and Theorem Proving (AITP 2021)*](http://aitp-conference.org/2021/) [Conference]
   
+#### Past Works
+
 - [**Gene Ontology and KEGG Orthology Mappings for 10 Strains of Pseudomonas stutzeri**](https://www.ecronicon.com/ecpb/pdf/ECPB-02-00019.pdf) (Oct 2019)    
   **Jin Xing Lim** and [Maurice H.T. Ling](https://github.com/mauriceling/mauriceling.github.io/wiki)    
   [EC Proteomics and Bioinformatics](https://publons.com/journal/47765/ec-proteomics-and-bioinformatics/#:~:text=EC%20Proteomics%20and%20Bioinformatics%20ECPB,their%20application%20in%20the%20biosciences.) [Journal]
