@@ -12,18 +12,18 @@ subtitle: Course of my life
   
 - [**Gene Ontology and KEGG Orthology Mappings for 10 Strains of Pseudomonas stutzeri**](https://www.ecronicon.com/ecpb/pdf/ECPB-02-00019.pdf) (Oct 2019)    
   **Jin Xing Lim** and [Maurice H.T. Ling](https://github.com/mauriceling/mauriceling.github.io/wiki)    
-  [EC Proteomics and Bioinformatics](https://publons.com/journal/47765/ec-proteomics-and-bioinformatics/#:~:text=EC%20Proteomics%20and%20Bioinformatics%20(ECPB,their%20application%20in%20the%20biosciences.) [Journal]
+  [EC Proteomics and Bioinformatics](https://publons.com/journal/47765/ec-proteomics-and-bioinformatics/#:~:text=EC%20Proteomics%20and%20Bioinformatics%20ECPB,their%20application%20in%20the%20biosciences.) [Journal]
   
-- [**Sequence Composition**](https://www.sciencedirect.com/science/article/pii/B9780128096338204391?via%3Dihub) (2019)
-  **Jin Xing Lim**, Bryan Tao Li and Maurice H.T. Ling
+- [**Sequence Composition**](https://www.sciencedirect.com/science/article/pii/B9780128096338204391?via%3Dihub) (2019)    
+  **Jin Xing Lim**, Bryan Tao Li and Maurice H.T. Ling    
   [Encyclopedia of Bioinformatics and Computational Biology](https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology) [Book Chapter]
   
-- [**Mathematics for Applied Science (Second Edition)**](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ/221301757?BRN=203024570&SETLVL=) (2016)
+- [**Mathematics for Applied Science (Second Edition)**](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ/221301757?BRN=203024570&SETLVL=) (2016)    
   **Jin Xing Lim**, Bryan Tao Li, [Zhangsheng Lai](https://zunction.github.io/) and Swee Cheng Chew    
   [Book]
 
-- [**Statistics for Applied Science**](https://books.google.com.sg/books/about/Mathematics_for_Applied_Science.html?id=t2agswEACAAJ&redir_esc=y) (2015)
-  **Jin Xing Lim**, Bryan Tao Li, Zhangsheng Lai and Swee Cheng Chew    
+- [**Statistics for Applied Science**](https://books.google.com.sg/books/about/Mathematics_for_Applied_Science.html?id=t2agswEACAAJ&redir_esc=y) (2015)    
+  **Jin Xing Lim**, Bryan Tao Li, Zhangsheng Lai and Swee Cheng Chew       
   [Book]
 
 ---
