@@ -30,6 +30,16 @@ subtitle: Course of my life
 
 ---
 
+## Projects
+
+- [**Game Theoretical Approaches in Multi-Agent Reinforcement Learning Policy Space Response Oracles**](https://github.com/jinxinglim/Game-Theoretical-Approaches-in-Multi-Agent-Reinforcement-Learning-Policy-Space-Response-Oracles) (2019)    
+  **Jin Xing Lim** and [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home)    
+  
+- [**Exploring Efficacy of Embeddings on Relation Network for Natural Language Question Answering Task**](https://github.com/jinxinglim/Exploring-Efficacy-of-Embeddings-on-Relation-Network-for-Natural-Language-Question-Answering-Task) (2018)    
+  **Jin Xing Lim**, Zhangsheng Lai and [Aik Beng Ng](https://www.linkedin.com/in/aikbengng/) 
+
+---
+
 ## Education
 
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
