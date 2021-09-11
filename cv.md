@@ -32,7 +32,7 @@ subtitle: Course of my life
 
 ## Projects
 
-- [**Formalization of Divide-and-Conquer in Coq**](https://github.com/jinxinglim/coq-formalized-divide-and-conquer) (2021)
+- [**Formalization of Divide-and-Conquer in Coq**](https://github.com/jinxinglim/coq-formalized-divide-and-conquer) (2021)    
   **Jin Xing Lim** and Shaowei Lin
   
 - [**Game Theoretical Approaches in Multi-Agent Reinforcement Learning Policy Space Response Oracles**](https://github.com/jinxinglim/Game-Theoretical-Approaches-in-Multi-Agent-Reinforcement-Learning-Policy-Space-Response-Oracles) (2019)    
