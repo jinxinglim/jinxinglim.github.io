@@ -16,6 +16,7 @@ author: Social
 navbar-links:
   Home: "jinxinglim.github.io"
   Posts: "blog/index"
+  Publications/Projects:"publication"
   CV: "cv"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
