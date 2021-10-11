@@ -6,8 +6,12 @@ subtitle: Course of my life
 
 ## Publications
 
+- **A Blockchain-Based Approach for Collaborative Formalization of Mathematics and Programs** (Dec 2021 - to appear)    
+  **Jin Xing Lim**, [Barnabé Monnot](https://barnabemonnot.com/), Shaowei Lin and Georgios Piliouras    
+  [*4th IEEE International Conference on Blockchain (IEEE Blockchain-2021)*](http://nsclab.org/blockchain2021/) [Conference]
+
 - [**(Auto)Complete this Proof: Decentralized Proof Generation via Smart Contracts**](http://aitp-conference.org/2021/abstract/paper_7.pdf) (Sept 2021)    
-  **Jin Xing Lim**, [Barnabé Monnot](https://barnabemonnot.com/), Georgios Piliouras and Shaowei Lin    
+  **Jin Xing Lim**, Barnabé Monnot, Georgios Piliouras and Shaowei Lin    
   [*6th Conference on Artificial Intelligence and Theorem Proving (AITP 2021)*](http://aitp-conference.org/2021/) [Conference]
   
 #### Past Works
