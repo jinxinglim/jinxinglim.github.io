@@ -44,4 +44,4 @@ subtitle: Course of my life
 
 ## Publications and Projects
 
-Please refer to the "[PUBLICATIONS/PROJECTS](https://jinxinglim.github.io/publication/)" tab.
+Please refer to the "[RESEARCH](https://jinxinglim.github.io/research/)" tab.
