@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications and Projects
-subtitle: Work that I have done
+title: Research
+subtitle: Research work that I have done
 ---
 
 ## Publications
