@@ -7,7 +7,7 @@ subtitle: Research work that I have done
 ## Publications
 
 - **A Blockchain-Based Approach for Collaborative Formalization of Mathematics and Programs** (Dec 2021 - to appear)    
-  **Jin Xing Lim**, [Barnabé Monnot](https://barnabemonnot.com/), Shaowei Lin and Georgios Piliouras    
+  **Jin Xing Lim**, [Barnabé Monnot](https://barnabemonnot.com/), [Shaowei Lin](https://shaoweilin.github.io/) and [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/)    
   [*4th IEEE International Conference on Blockchain (IEEE Blockchain-2021)*](http://nsclab.org/blockchain2021/) [Conference]
 
 - [**(Auto)Complete this Proof: Decentralized Proof Generation via Smart Contracts**](http://aitp-conference.org/2021/abstract/paper_7.pdf) (Sept 2021)    
