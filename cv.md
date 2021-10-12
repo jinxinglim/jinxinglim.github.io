@@ -11,7 +11,7 @@ subtitle: Course of my life
   Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/) and [Shaowei Lin](https://shaoweilin.github.io/)    
   Thesis: A Blockchain-based Mechanism Design for Theorem Proving
   
-- **B.S. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
+- **B.Sc. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
   [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
   Class: Second Class Honours (Upper) / Honours (Distinction)    
   Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)    
