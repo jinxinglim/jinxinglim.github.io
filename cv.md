@@ -9,12 +9,12 @@ subtitle: Course of my life
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
   [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)    
   Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/) and [Shaowei Lin](https://shaoweilin.github.io/)    
-  Topic: Blockchain application on theorem proving
+  Thesis: A Blockchain-based Mechanism Design for Theorem Proving
   
 - **B.S. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
-  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
+  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)
+  Class: Second Class Honours (Upper) / Honours (Distinction)    
   Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)    
-  Topic: Mathematical Logic    
   Honours' Year Project: "Decidability of the First Order Theory of Boolean Algebra" by Tarski, A.
 
 ---
