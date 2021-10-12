@@ -12,7 +12,7 @@ subtitle: Course of my life
   Thesis: A Blockchain-based Mechanism Design for Theorem Proving
   
 - **B.S. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
-  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)
+  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
   Class: Second Class Honours (Upper) / Honours (Distinction)    
   Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)    
   Honours' Year Project: "Decidability of the First Order Theory of Boolean Algebra" by Tarski, A.
