@@ -15,7 +15,7 @@ subtitle: Course of my life
   [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
   Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)    
   Topic: Mathematical Logic    
-  Thesis: "Decidability of the First Order Theory of Boolean Algebra" by Tarski, A.
+  Honours' Year Project: "Decidability of the First Order Theory of Boolean Algebra" by Tarski, A.
 
 ---
 
