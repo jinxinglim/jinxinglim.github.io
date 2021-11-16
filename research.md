@@ -24,11 +24,11 @@ subtitle: Research work that I have done
   **Jin Xing Lim**, [Bryan Tao Li](https://www.zoominfo.com/p/Bryan-tao-Li/3794826580) and Maurice H.T. Ling    
   [Encyclopedia of Bioinformatics and Computational Biology](https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology)
   
-- [**Mathematics for Applied Science**](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ/221301757?BRN=203024570&SETLVL=) (2016)    
+- [**Mathematics for Applied Science**](https://books.google.com.sg/books/about/Mathematics_for_Applied_Science.html?id=t2agswEACAAJ&redir_esc=y) (2016)    
   [Hong Ming Tan](https://thm.sg/), Bryan Tao Li, [Zhangsheng Lai](https://zunction.github.io/), **Jin Xing Lim** and Swee Cheng Chew    
   McGraw Hill Education
 
-- [**Statistics for Applied Science**](https://books.google.com.sg/books/about/Mathematics_for_Applied_Science.html?id=t2agswEACAAJ&redir_esc=y) (2015)    
+- [**Statistics for Applied Science**](https://books.google.com.sg/books/about/Statistics_for_Applied_Science.html?id=RoGInQAACAAJ&redir_esc=y) (2015)    
   Hong Ming Tan, Bryan Tao Li, Zhangsheng Lai, **Jin Xing Lim** and Swee Cheng Chew    
   McGraw Hill Education
 
