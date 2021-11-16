@@ -4,9 +4,7 @@ title: Curriculum Vitae
 subtitle: Course of my life
 ---
 
-<center>
-  <a href="./Jin_Xing_Lim_CV_161121.pdf" download>Download full CV</a>
-</center> test6
+->[**Download full CV**](Jin_Xing_Lim_CV_161121.pdf){ : .btn }<-
 
 ## Education
 
