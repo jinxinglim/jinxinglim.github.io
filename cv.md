@@ -6,6 +6,9 @@ subtitle: Course of my life
 
 [Download Full CV](Jin_Xing_Lim_CV_161121.pdf){: .btn .btn-outline }
 
+
+<button type="button" name="button" class="btn">Button element</button>
+
 ## Education
 
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
