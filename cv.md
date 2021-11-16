@@ -5,8 +5,8 @@ subtitle: Course of my life
 ---
 
 <center>
-  <a href="Jin_Xing_Lim_CV_161121" class="button">Download full CV</a>
-</center> test2
+  <a href="Jin_Xing_Lim_CV_161121.pdf" class="button">Download full CV</a>
+</center> test3
 
 ## Education
 
