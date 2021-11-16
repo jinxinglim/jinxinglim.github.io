@@ -6,6 +6,8 @@ subtitle: Course of my life
 
 [**Download Full CV**](Jin_Xing_Lim_CV_161121.pdf){: .btn}
 
+---
+
 ## Education
 
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
