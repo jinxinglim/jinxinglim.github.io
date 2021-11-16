@@ -4,6 +4,8 @@ title: Curriculum Vitae
 subtitle: Course of my life
 ---
 
+# [Download Full CV](https://1drv.ms/b/s!Aqx05y5DWIf1hKdwLBjGHmj373EZoQ?e=NwoEFK)
+
 ## Education
 
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
