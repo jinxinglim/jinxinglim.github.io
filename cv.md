@@ -72,12 +72,12 @@ subtitle: Course of my life
   
 #### Pedagogy Courses
 
-- [**Teaching Certificate Course for Graduate Teaching Assistants**](https://www.sutd.edu.sg/learningsciences/Teaching/Pedagogical-workshops-for-Graduate-Teaching-Assist) ([Oct 2018](documents/TASETL_cert.pdf))
-  Nachamma Sockalingam
-  *Singapore University of Technology and Design (SUTD)*
+- [**Teaching Certificate Course for Graduate Teaching Assistants**](https://www.sutd.edu.sg/learningsciences/Teaching/Pedagogical-workshops-for-Graduate-Teaching-Assist) ([Oct 2018](documents/TASETL_cert.pdf))    
+  Nachamma Sockalingam    
+  *Singapore University of Technology and Design (SUTD)*    
   
-- **Teaching in Higher Education Certificate (THEC)** ([Sep 2015](documents/THEC_cert.pdf))
-  *Temasek Polytechnic*
+- **Teaching in Higher Education Certificate (THEC)** ([Sep 2015](documents/THEC_cert.pdf))    
+  *Temasek Polytechnic*    
   
 ---
 
