@@ -71,7 +71,7 @@ subtitle: Course of my life
   *Singapore General Hospital Postgraduate Allied Health Institute (SGH PGAHI)*    
 
 - [**Data Analytics in Healthcare Course**](http://gatewaypl.com/gw/courses/dahc/) ([Nov 2014](documents/DAHC_cert.pdf))    
-  K C Lun
+  K C Lun    
   *Gateway Consulting Singapore*
   
 #### Pedagogy Courses
