@@ -46,6 +46,10 @@ subtitle: Course of my life
 
 ## Courses Attended
 
+- [**Secureum Bootcamp Epoch 0**](https://secureum.substack.com/p/secureum-bootcamp-for-smart-contract) (Dec 2021)  
+  Rajeev Gopalakrishna    
+  *Secureum*
+
 - [**Ethereum Blockchain Developer Bootcamp With Solidity (2021)**](https://www.udemy.com/course/blockchain-developer/) ([Nov 2021](documents/EBDBWS2021_Cert.pdf))  
   Ravinder Deol, Thomas Wiesner and Martin Sterlicchi    
   *Udemy*
