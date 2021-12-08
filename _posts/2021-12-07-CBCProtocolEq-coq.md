@@ -19,7 +19,7 @@ Moreover, readers, who want to understand the formal proofs of the 5 main theore
 
 
 Recommended order of reading our posts:    
-Part 1. [(Partially) Explained Casper CBC specs](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) by Barnabé Monnot    
+Part 1. [Safety of CBC Casper consensus](https://hackingresear.ch/cbc-safety/) by Barnabé Monnot    
 Part 2. [CBC Casper Protocols Formal Definition in Coq](https://jinxinglim.github.io/2021-12-07-CBCProtocolEq-coq/) by Jin Xing Lim    
 Part 3. [Safety Proofs for the minimal CBC Casper family](https://zunction.github.io/blog/2021/safety-proofs/) by Zhangsheng Lai
 
@@ -291,4 +291,4 @@ This brings us to the end of this post. As we are just focusing on the safety pr
 
 [5]. [Safety Proofs for the minimal CBC Casper family](https://zunction.github.io/blog/2021/safety-proofs/) post by Zhangsheng Lai
 
-[6]. [(Partially) Explained Casper CBC specs](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) post by Barnabé Monnot
+[6]. [Safety of CBC Casper consensus](https://hackingresear.ch/cbc-safety/) post by Barnabé Monnot
