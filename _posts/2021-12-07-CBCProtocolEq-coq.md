@@ -277,9 +277,6 @@ With the necessary formal definitions and properties defined for the typeclass `
 
 This brings us to the end of this post. As we are just focusing on the safety proofs from [1], it suffices for us to understand the typeclass `CBCProtocolEq` from `Protocol.v`. However, for the formal proofs of weak and strong non-trivality, one needs to understand the other typeclasses, such as `FullNode`, `LightNode` and `PartialOrderNonLCish`, presented in the source code [4] and as explained in [2] itself.
 
-
-->[**Click here to read the post by Barnabé Monnot to better understand CBC Casper specification**](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html){: .btn }<-
-->[**Click here to read the post by Zhangsheng Lai to better safety proof for the minimal CBC Casper family**](https://zunction.github.io/blog/2021/safety-proofs/){: .btn }<-
 ---
 
 ### References
