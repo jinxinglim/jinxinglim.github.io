@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the typeclass `CBCProtocolEq` from the source code of Formalizing of CBC Casper in Coq
+title: Correct-by-Construction (CBC) Casper Protocols Formal Definition in Coq
 subtitle: Computer Science
 tags: [computer science, blockchain, consensus protocol, CBC Casper, formalization, Coq]
 comments: true
@@ -11,7 +11,7 @@ This is part of a joint work from the Formal Verification in Blockchain reading 
 In this post, we will be understanding and covering the important definitions and properties from the typeclass `CBCProtocolEq` from the [Coq](https://coq.inria.fr/) source code, `Protocol.v`, presented in the paper, [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq), by authors from [Runtime Verification Inc](https://runtimeverification.com/).
 The full source code can be found in [here](https://runtimeverification.github.io/casper-cbc-proof-docs/docs/latest/alectryon/toc.html). 
 We will also be referencing from the paper, [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf), by authors from [Ethereum Research](https://ethresear.ch/) as the code covers the formalized version of the definitions and properties in the paper as well.
-We will be mapping from the formalized definitions and properties found in `Protocol.v` to the corresponding definitions and results in either [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq) or [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf).
+We will be mapping from the formalized definitions and properties found in `Protocol.v` to the corresponding definitions and properties in either [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq) or [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf).
 We will provide necessary details for each of the mappings to provide a better understanding for the readers but will not be going in depth for most of the proofs presented.
 Interested readers can either run through the Alectryon proof movies in [here](https://runtimeverification.github.io/casper-cbc-proof-docs/docs/latest/alectryon/toc.html). 
 For readers who would wish to understand more about CBC Casper specifications, you can read the [post](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) by Barnabé, where he explains the protocol specifications in details with illustrative diagrams.
@@ -20,7 +20,7 @@ Moreover, readers, who want to understand the formal proofs of the 5 main theore
 
 Recommended order of reading our posts:
 1. [(Partially) Explained Casper CBC specs](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) by Barnabé Monnot
-2. [Understanding the typeclass `CBCProtocolEq` from the source code of Formalizing of CBC Casper in Coq](https://jinxinglim.github.io/2021-12-07-CBCProtocolEq-coq/) by Jin Xing Lim
+2. [Correct-by-Construction (CBC) Casper Protocols Formal Definition in Coq](https://jinxinglim.github.io/2021-12-07-CBCProtocolEq-coq/) by Jin Xing Lim
 3. [Safety Proofs for the minimal CBC Casper family](https://zunction.github.io/blog/2021/safety-proofs/) by Zhangsheng Lai
 
 ---
@@ -273,8 +273,9 @@ With the necessary formal definitions and properties defined for the typeclass `
     }.
     (** Proof that pstate is a PartialOrder **)
     ```
-  
-Now, we are ready to move on to the safety proofs as described in Section 2.3 of [1].
+---
+
+This brings us to the end of this post. As we are just focusing on the safety proofs from [1], it suffices for us to understand the typeclass `CBCProtocolEq` from `Protocol.v`. However, for the formal proofs of weak and strong non-trivality, one needs to understand the other typeclasses, such as `FullNode`, `LightNode` and `PartialOrderNonLCish`, presented in the source code [4] and as explained in [2] itself.
 
 ---
 
