@@ -1,26 +1,31 @@
 ---
 layout: post
-title: Understanding the Code Behind Formalizing of CBC Casper in Coq (Safety Properties)
+title: Understanding the typeclass `CBCProtocolEq` from the source code of Formalizing of CBC Casper in Coq
 subtitle: Computer Science
 tags: [computer science, blockchain, consensus protocol, CBC Casper, formalization, Coq]
 comments: true
 ---
 
-This is a joint work from the Formal Verification in Blockchain reading group, which consists of [Barnabé Monnot](https://barnabemonnot.com/), [Zhangsheng Lai](https://zunction.github.io/) and myself.    
+This is part of a joint work from the Formal Verification in Blockchain reading group, which consists of [Barnabé Monnot](https://barnabemonnot.com/), [Zhangsheng Lai](https://zunction.github.io/) and myself.    
 
-In this post, we will be understanding and covering the important definitions and results regarding the safety properties (more on this later) from the [Coq](https://coq.inria.fr/) code presented in the paper, [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq), by authors from [Runtime Verification Inc](https://runtimeverification.com/).
-The Coq code can be found in [here](https://runtimeverification.github.io/casper-cbc-proof-docs/docs/latest/alectryon/toc.html). 
-We will also be referencing from the paper, [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf), by authors from [Ethereum Research](https://ethresear.ch/) as the code covers the formalized version of the definitions and results in the paper as well.
-The code presented in this post is from `Protocol.v`, unless otherwise stated, as most of the definitions and results regarding the safety properties of the CBC Casper protocols are covered in this file.
-We will be mapping from the formalized definitions and results found in `Protocol.v`, unless otherwise stated, to the corresponding definitions and results in either [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq) or [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf), or vice versa.
+In this post, we will be understanding and covering the important definitions and properties from the typeclass `CBCProtocolEq` from the [Coq](https://coq.inria.fr/) source code, `Protocol.v`, presented in the paper, [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq), by authors from [Runtime Verification Inc](https://runtimeverification.com/).
+The full source code can be found in [here](https://runtimeverification.github.io/casper-cbc-proof-docs/docs/latest/alectryon/toc.html). 
+We will also be referencing from the paper, [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf), by authors from [Ethereum Research](https://ethresear.ch/) as the code covers the formalized version of the definitions and properties in the paper as well.
+We will be mapping from the formalized definitions and properties found in `Protocol.v` to the corresponding definitions and results in either [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq) or [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf).
 We will provide necessary details for each of the mappings to provide a better understanding for the readers but will not be going in depth for most of the proofs presented.
-Interested readers can either run through the Alectryon proof movies in [here](https://runtimeverification.github.io/casper-cbc-proof-docs/docs/latest/alectryon/toc.html) or read the [post](https://zunction.github.io/blog/2021/safety-proofs/) by Zhangsheng Lai, where he covers the formalized proofs of the 5 main theorems regarding the safety properties from [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf). Zhangsheng also provide an alternative overall of the paper, [Formalizing Correct-by-Construction Casper in Coq](https://www.researchgate.net/publication/343704844_Formalizing_Correct-by-Construction_Casper_in_Coq), and the code behind it through another [post](https://zunction.github.io/blog/2020/formalizing-correct-by-construction-casper-coq/) of his. 
+Interested readers can either run through the Alectryon proof movies in [here](https://runtimeverification.github.io/casper-cbc-proof-docs/docs/latest/alectryon/toc.html). 
+For readers who would wish to understand more about CBC Casper specifications, you can read the [post](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) by Barnabé, where he explains the protocol specifications in details with illustrative diagrams.
+Moreover, readers, who want to understand the formal proofs of the 5 main theorems regarding the safety properties from [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf), can read the [post](https://zunction.github.io/blog/2021/safety-proofs/) by Zhangsheng Lai. 
 
-We will first look at the formal definition of Correct-by-Construction (CBC) Casper protocols. For readers who would wish to understand more about CBC Casper specifications, you can read the [post](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) by Barnabé, where he explains the protocol specifications in details with illustrative diagrams.
+
+Recommended order of reading our posts:
+1. [(Partially) Explained Casper CBC specs](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) by Barnabé Monnot
+2. [Understanding the typeclass `CBCProtocolEq` from the source code of Formalizing of CBC Casper in Coq](https://jinxinglim.github.io/2021-12-07-CBCProtocolEq-coq/) by Jin Xing Lim
+3. [Safety Proofs for the minimal CBC Casper family](https://zunction.github.io/blog/2021/safety-proofs/) by Zhangsheng Lai
 
 ---
 
-### 1. Correct-by-Construction (CBC) Casper Protocols Formal Definition
+### Correct-by-Construction (CBC) Casper Protocols Formal Definition
 
 **Consensus protocols** can be thought of as "rules" used by nodes in a distributed network to make consistent decisions, i.e., come to consensus, from possibly inconsistent alternative decisions from different nodes. For example, in a binary consensus protocol, where the decisions are 0 or 1, the decision 1 is said to be inconsistent with 0 and consistent with 1. In a blockchain consensus protocol, a decision on one block is considered as inconsistent with another when they are not in the same blockchain, and consistent when they are in the same chain. Typically, consensus protocols are to ensure several properties to hold within a blockchain, e.g., safety, liveness and non-triviality. In this blog post, we will just be looking at how CBC Casper protocols ensure **safety**, i.e., it is not possible for nodes to make inconsistent decisions/consensus values (more formal definition will be given later).
 
@@ -273,12 +278,6 @@ Now, we are ready to move on to the safety proofs as described in Section 2.3 of
 
 ---
 
-### 2. Safety Proof
-
-...TO BE COMPLETED...
-
----
-
 ### References
 
 [1]. [Introducing the "Minimal CBC Casper" Family of Consensus Protocols](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf)
@@ -291,6 +290,4 @@ Now, we are ready to move on to the safety proofs as described in Section 2.3 of
 
 [5]. [Safety Proofs for the minimal CBC Casper family](https://zunction.github.io/blog/2021/safety-proofs/) post by Zhangsheng Lai
 
-[6]. [Formalizing Correct-by-Construction in Coq](https://zunction.github.io/blog/2020/formalizing-correct-by-construction-casper-coq/) post by Zhangsheng Lai
-
-[7]. [(Partially) Explained Casper CBC specs](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) post by Barnabé Monnot
+[6]. [(Partially) Explained Casper CBC specs](https://barnabemonnot.com/posts/2018/11/14/casper-cbc.html) post by Barnabé Monnot
