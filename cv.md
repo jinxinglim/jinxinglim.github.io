@@ -11,7 +11,7 @@ subtitle: Course of my life
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
   [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)    
   Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/) and [Shaowei Lin](https://shaoweilin.github.io/)    
-  Thesis: A Blockchain-based Mechanism Design for Theorem Proving
+  Thesis: Incentivized Mechanism Design for Collaborative Proofs and Programs through Theorem Provers and Blockchain
   
 - **B.Sc. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
   [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
