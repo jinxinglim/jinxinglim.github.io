@@ -6,9 +6,9 @@ subtitle: Research work that I have done
 
 ## Publications
 
-- **Blockchain-based Mechanism Design for Collaborative Mathematical Research** (May 2022)    
+- [**Blockchain-based Mechanism Design for Collaborative Mathematical Research**](https://ieeexplore.ieee.org/document/9805513) (May 2022)    
   **Jin Xing Lim**, [Barnabé Monnot](https://barnabemonnot.com/) and [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/)   
-  [*2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2022)*](https://icbc2022.ieee-icbc.org/)
+  [*2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)*](https://icbc2022.ieee-icbc.org/)
 
 - [**A Blockchain-Based Approach for Collaborative Formalization of Mathematics and Programs**](https://arxiv.org/abs/2111.10824) (Dec 2021)    
   **Jin Xing Lim**, Barnabé Monnot, [Shaowei Lin](https://shaoweilin.github.io/) and Georgios Piliouras      
