@@ -6,23 +6,14 @@ subtitle: Course of my life
 
 ->[**Download full CV**](documents/Jin_Xing_Lim_CV_240222.pdf){: .btn }<-
 
-## Education
-
-- **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - Expected 2022)    
-  [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)    
-  Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/) and [Shaowei Lin](https://shaoweilin.github.io/)    
-  Thesis: Incentivized Mechanism Design for Collaborative Proofs and Programs through Theorem Provers and Blockchain
-  
-- **B.Sc. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
-  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
-  Class: Second Class Honours (Upper) / Honours (Distinction)    
-  Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)    
-  Honours' Year Project: "Decidability of the First Order Theory of Boolean Algebra" by Tarski, A.
-
----
-
 ## Experience
 
+- **Formal Verification Engineer** (Sep 2022 - present)
+  [*Runtime Verification Inc.*](https://runtimeverification.com/)
+  Backend and frontend development of the K-Framework, the development of internal tools and/or products derived 
+  from or powered by the K-Framework, and working on customer engagements providing software testing and
+  verification services to industry
+  
 - **Data Science Intern** (Jul 2019 - Sep 2019)    
   *Entend.ai*    
   Translate mathematical models for machine reasoning into software and to build applications based on the software
@@ -34,6 +25,21 @@ subtitle: Course of my life
   - Statistics for Applied Science 
   - Biostatistics
   - Scripting for Bioinformatics
+
+---
+
+## Education
+
+- **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - 2022)    
+  [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)    
+  Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/), [Shaowei Lin](https://shaoweilin.github.io/) and [Barnabé Monnot] (https://barnabemonnot.com/)
+  Thesis: Incentivized Mechanism Design for Collaborative Proofs and Programs through Theorem Provers and Blockchain
+  
+- **B.Sc. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
+  [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
+  Class: Second Class Honours (Upper) / Honours (Distinction)    
+  Advisor: [Yang Yue](https://discovery.nus.edu.sg/463-yue-yang)    
+  Honours' Year Project: "Decidability of the First Order Theory of Boolean Algebra" by Tarski, A.
 
 ---
 
