@@ -8,8 +8,8 @@ subtitle: Course of my life
 
 ## Experience
 
-- **Formal Verification Engineer** (Sep 2022 - present)
-  [*Runtime Verification Inc.*](https://runtimeverification.com/)
+- **Formal Verification Engineer** (Sep 2022 - present)    
+  [*Runtime Verification Inc.*](https://runtimeverification.com/)    
   Backend and frontend development of the K-Framework, the development of internal tools and/or products derived 
   from or powered by the K-Framework, and working on customer engagements providing software testing and
   verification services to industry
