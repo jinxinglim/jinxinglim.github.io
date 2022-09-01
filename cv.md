@@ -32,7 +32,7 @@ subtitle: Course of my life
 
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - 2022)    
   [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)    
-  Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/), [Shaowei Lin](https://shaoweilin.github.io/) and [Barnabé Monnot](https://barnabemonnot.com/)
+  Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/), [Shaowei Lin](https://shaoweilin.github.io/) and [Barnabé Monnot](https://barnabemonnot.com/)   
   Thesis: Incentivized Mechanism Design for Collaborative Proofs and Programs through Theorem Provers and Blockchain
   
 - **B.Sc. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
