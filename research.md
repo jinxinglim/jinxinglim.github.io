@@ -40,7 +40,7 @@ subtitle: Research work that I have done
 
 ## Projects
 
-- [**ERCx**](https://ercx.runtimeverification.com/) (2023)
+- [**ERCx**](https://ercx.runtimeverification.com/) (2023)    
   ERCx team @ RV
 
 - [**Formalization of Divide-and-Conquer in Coq**](https://github.com/jinxinglim/coq-formalized-divide-and-conquer) (2021)    
