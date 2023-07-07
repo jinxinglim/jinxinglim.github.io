@@ -9,10 +9,9 @@ subtitle: Course of my life
 ## Experience
 
 - **Formal Verification Engineer** (Sep 2022 - present)    
-  [*Runtime Verification Inc.*](https://runtimeverification.com/)    
-  Backend and frontend development of the K-Framework, the development of internal tools and/or products derived 
-  from or powered by the K-Framework, and working on customer engagements providing software testing and
-  verification services to industry
+  [*Runtime Verification Inc.*](https://runtimeverification.com/)
+  Main developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework
+  
   
 - **Data Science Intern** (Jul 2019 - Sep 2019)    
   *Entend.ai*    
