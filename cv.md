@@ -9,7 +9,7 @@ subtitle: Course of my life
 ## Experience
 
 - **Formal Verification Engineer** (Sep 2022 - present)    
-  [*Runtime Verification Inc.*](https://runtimeverification.com/)
+  [*Runtime Verification Inc.*](https://runtimeverification.com/)    
   Main developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework
   
   
