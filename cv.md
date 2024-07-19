@@ -10,7 +10,7 @@ subtitle: Course of my life
 
 - **Formal Verification Engineer** (Sep 2022 - present)    
   [*Runtime Verification Inc.*](https://runtimeverification.com/)    
-  Main developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework
+  Team Lead and core developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework
   
   
 - **Data Science Intern** (Jul 2019 - Sep 2019)    
@@ -32,7 +32,7 @@ subtitle: Course of my life
 - **Ph.D. [Engineering Systems and Design](https://esd.sutd.edu.sg/)** (2018 - 2022)    
   [*Singapore University of Technology and Design (SUTD)*](https://sutd.edu.sg/)    
   Advisor: [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/), [Shaowei Lin](https://shaoweilin.github.io/) and [Barnabé Monnot](https://barnabemonnot.com/)   
-  Thesis: Incentivized Mechanism Design for Collaborative Proofs and Programs through Theorem Provers and Blockchain
+  Thesis: [Incentivized Mechanism Design for Collaborative Proofs and Programs through Theorem Provers and Blockchain](https://library.sutd.edu.sg/SUTDArchives/downloadfile.aspx?file=609b172a-7fce-4a9c-8a26-cf29e4e98d03)
   
 - **B.Sc. [Mathematics](https://www.math.nus.edu.sg/)** (2010 - 2014)    
   [*National University of Singapore (NUS)*](https://www.nus.edu.sg/)    
