@@ -10,7 +10,7 @@ subtitle: Course of my life
 
 - **Software Engineer** (Aug 2024 - Present)    
   [*Pi Squared Inc.*](https://pi2.network/)    
-    Contribute to the Math Proof Generation Team by developing components that produce machine-checkable proofs of program executions, enhancing blockchain/language/application interoperability using zero-knowledge (ZK) technology.
+    Contribute to the Math Proof Generation Team by developing components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
 
 - **Formal Verification Engineer** (Sep 2022 - Aug 2024)    
   [*Runtime Verification Inc.*](https://runtimeverification.com/)    
