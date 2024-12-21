@@ -10,11 +10,11 @@ subtitle: Course of my life
 
 - **Software Engineer** (Aug 2024 - Present)    
   [*Pi Squared Inc.*](https://pi2.network/)    
-    Team lead of the Math Proof Generation (MPG) team, where we develop components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
+    Tech lead of the Math Proof Generation (MPG) team, where we develop components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
 
 - **Formal Verification Engineer** (Sep 2022 - Aug 2024)    
   [*Runtime Verification Inc.*](https://runtimeverification.com/)    
-  Team lead and core developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework
+  Tech lead and core developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework
   
   
 - **Data Science Intern** (Jul 2019 - Sep 2019)    
