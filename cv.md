@@ -10,7 +10,8 @@ subtitle: Course of my life
 
 - **Software Engineer** (Aug 2024 - Present)    
   [*Pi Squared Inc.*](https://pi2.network/)    
-    Tech lead of the Math Proof Generation (MPG) team, where we develop components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
+  - Tech lead of the [Math Proof Generation (MPG)](https://docs.pi2.network/math-proof-generation) team, where we develop components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
+  - Tech Lead for a project integrating [Verifiable Settlement Layer (VSL)](https://docs.pi2.network/verifiable-settlement-layer/what-is-vsl) with AI clients and service providers, enabling fast payments and verifiable settlements between heterogeneous agents.
 
 - **Formal Verification Engineer** (Sep 2022 - Aug 2024)    
   [*Runtime Verification Inc.*](https://runtimeverification.com/)    
