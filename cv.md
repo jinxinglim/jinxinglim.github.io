@@ -8,10 +8,12 @@ subtitle: Course of my life
 
 ## Experience
 
-- **Software Engineer** (Aug 2024 - Present)    
+- **Head of Product and Technology** (Jul 2025 - Present)    
+  **Software Engineer** (Aug 2024 - Jul 2025)    
   [*Pi Squared Inc.*](https://pi2.network/)    
-  - Tech lead of the [Math Proof Generation (MPG)](https://docs.pi2.network/math-proof-generation) team, where we develop components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
-  - Tech Lead for a project integrating [Verifiable Settlement Layer (VSL)](https://docs.pi2.network/verifiable-settlement-layer/what-is-vsl) with AI clients and service providers, enabling fast payments and verifiable settlements between heterogeneous agents.
+  - [As Head of Product and Technology] Responsible for the strategic vision and execution of a product throughout its entire lifecycle. They bridge the gap between business, technology, and user experience, ensuring the product meets customer needs while driving revenue generating adoption of our protocol and products.
+  - [As Software Engineer] Tech Lead for a project integrating [Verifiable Settlement Layer (VSL)](https://docs.pi2.network/verifiable-settlement-layer/what-is-vsl) with AI clients and service providers, enabling fast payments and verifiable settlements between heterogeneous agents.
+  - [As Software Engineer] Tech lead of the [Math Proof Generation (MPG)](https://docs.pi2.network/math-proof-generation) team, where we develop components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
 
 - **Formal Verification Engineer** (Sep 2022 - Aug 2024)    
   [*Runtime Verification Inc.*](https://runtimeverification.com/)    
