@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-subtitle: Research work that I have done
+title: Research & Projects
+subtitle: Research work and projects that I have done
 ---
 
 ## Publications
@@ -39,6 +39,9 @@ subtitle: Research work that I have done
 ---
 
 ## Projects
+
+- [**OmniSet**](https://omniset.fastset.xyz/) (2025)    
+  ERCx team @ RV
 
 - [**ERCx**](https://ercx.runtimeverification.com/) (2023)    
   ERCx team @ RV
