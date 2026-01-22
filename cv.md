@@ -8,10 +8,8 @@ subtitle: Course of my life
 
 ## Experience
 
-- **Technical Product Lead** (Jul 2025 - Present)    
-  **Software Engineer** (Aug 2024 - Jul 2025)    
+- **Software Engineer** (Aug 2024 - Present)    
   [*Pi Squared Inc.*](https://pi2.network/)    
-  - [As Technical Product Lead] Responsible for the technical leadership and execution of products across their lifecycle, ensuring architectural soundness, scalability, and reliable delivery. Acted as the bridge between product requirements and engineering execution, aligning technical decisions with long-term product goals.
   - [As Software Engineer] Tech Lead for a project integrating [Verifiable Settlement Layer (VSL)](https://docs.pi2.network/verifiable-settlement-layer/what-is-vsl) with AI clients and service providers, enabling fast payments and verifiable settlements between heterogeneous agents.
   - [As Software Engineer] Tech lead of the [Math Proof Generation (MPG)](https://docs.pi2.network/math-proof-generation) team, where we develop components that produce machine-checkable proofs of program executions, enhancing blockchain interoperability using zero-knowledge (ZK) technology.
 
