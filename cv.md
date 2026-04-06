@@ -8,12 +8,12 @@ subtitle: Course of my life
 
 ## Experience
 
-- **Research Scientist** (Apr 2026 - Present)
+- **Research Scientist** (Apr 2026 - Present)    
   [*Beneficial AI Foundation*](https://www.beneficialaifoundation.org/)
   - Conduct research at the intersection of AI safety, formal verification, automated reasoning, and mathematics.
   - Work on trustworthy reasoning systems and the use of formal methods to improve the reliability and safety of advanced AI systems.
 
-- **Software Engineer** (Aug 2024 - Present, part-time since Apr 2026)
+- **Software Engineer** (Aug 2024 - Present, part-time since Apr 2026)    
   *[Fast](https://fast.xyz/) (formerly [Pi Squared Inc.](https://pi2.network/))*
   - Develop web3 payment infrastructure for agentic payments through verifiable systems, universal liquidity, and cross-chain interoperability.
   - Tech Lead for a project integrating [Verifiable Settlement Layer (VSL)](https://docs.pi2.network/verifiable-settlement-layer/what-is-vsl) with AI clients and service providers, enabling fast payments and verifiable settlements between heterogeneous agents.
