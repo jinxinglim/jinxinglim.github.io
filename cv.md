@@ -8,10 +8,12 @@ subtitle: Course of my life
 
 ## Experience
 
+
 - **Research Scientist** (Apr 2026 - Present)    
   [*Beneficial AI Foundation*](https://www.beneficialaifoundation.org/)
   - Conduct research at the intersection of AI safety, formal verification, automated reasoning, and mathematics.
   - Work on trustworthy reasoning systems and the use of formal methods to improve the reliability and safety of advanced AI systems.
+
 
 - **Software Engineer** (Aug 2024 - Present, part-time since Apr 2026)    
   *[Fast](https://fast.xyz/) (formerly [Pi Squared Inc.](https://pi2.network/))*
@@ -19,13 +21,16 @@ subtitle: Course of my life
   - Tech Lead for a project integrating [Verifiable Settlement Layer (VSL)](https://docs.pi2.network/verifiable-settlement-layer/what-is-vsl) with AI clients and service providers, enabling fast payments and verifiable settlements between heterogeneous agents.
   - Tech Lead of the [Math Proof Generation (MPG)](https://docs.pi2.network/math-proof-generation) team, developing components that produce machine-checkable proofs of program executions and enhance blockchain interoperability using zero-knowledge (ZK) technology.
 
+
 - **Formal Verification Engineer** (Sep 2022 - Aug 2024)    
   [*Runtime Verification Inc.*](https://runtimeverification.com/)    
   Tech lead and core developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework
+
   
 - **Data Science Intern** (Jul 2019 - Sep 2019)    
   *Entend.ai*    
   Translate mathematical models for machine reasoning into software and to build applications based on the software
+
 
 - **Lecturer** (Jul 2014 - Aug 2018)     
   [*Temasek Polytechnic*](https://www.tp.edu.sg/)    
