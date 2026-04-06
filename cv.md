@@ -24,21 +24,21 @@ subtitle: Course of my life
 
 - **Formal Verification Engineer** (Sep 2022 - Aug 2024)    
   [*Runtime Verification Inc.*](https://runtimeverification.com/)    
-  Tech lead and core developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework    
+  - Tech lead and core developer of [ERCx](https://ercx.runtimeverification.com/), a tool suite that checks for conformance to ERC (Ethereum Request for Comments) standards and important security properties of a smart contract in the Ethereum ecosystem through the use of the [Foundry](https://book.getfoundry.sh/) testing framework    
 
   
 - **Data Science Intern** (Jul 2019 - Sep 2019)    
   *Entend.ai*    
-  Translate mathematical models for machine reasoning into software and to build applications based on the software    
+  - Translate mathematical models for machine reasoning into software and to build applications based on the software    
 
 
 - **Lecturer** (Jul 2014 - Aug 2018)     
   [*Temasek Polytechnic*](https://www.tp.edu.sg/)    
-  Subject leader and lecturer for the following courses:
-  - Mathematics for Applied Science
-  - Statistics for Applied Science 
-  - Biostatistics
-  - Scripting for Bioinformatics
+  - Subject leader and lecturer for the following courses:
+    - Mathematics for Applied Science
+    - Statistics for Applied Science 
+    - Biostatistics
+    - Scripting for Bioinformatics
 
 ---
 
